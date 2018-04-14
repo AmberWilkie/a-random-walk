@@ -7,9 +7,6 @@ class Home extends Component {
     render() {
         return(
             <div>
-                <div>
-                    <img src="https://imageog.flaticon.com/icons/png/512/25/25694.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" className="icon"/>
-                </div>
                 <div className="top-score">
                   <p>Top Score:</p>
                   <span>0.3 Km / min</span>
