@@ -52,6 +52,14 @@ form img {
   margin: 0 auto;
 }
 
+.small-icon {
+  width: 30px;
+}
+
+.icon-left {
+  width: 20%;
+}
+
 .top-score {
   border: 1px solid lightgray;
   background: lightgray;
@@ -65,4 +73,23 @@ form img {
 
 .top-score span {
   margin-left: 15px;
+}
+
+.race {
+  border: 1px solid;
+  margin: 2%;
+  justify-content: space-between;
+  display: flex;
+  height: 35px;
+  text-decoration: none;
+  color: black;
+}
+
+.header {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.container {
+  height: 70px;
 }
