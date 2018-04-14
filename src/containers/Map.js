@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import './App.css';
+import '../stylesheets/App.css';
 import ReactMapboxGl, { Layer, Feature, Marker, ZoomControl } from "react-mapbox-gl";
 import {geolocated} from 'react-geolocated';
-import FakeData from './Coordinates';
+import FakeData from '../helpers/Coordinates';
 import { sampleSize } from 'lodash';
 
 

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class MapForm extends Component {
+class RaceForm extends Component {
     state = {};
 
     handleChange = (event) => {
@@ -41,4 +41,4 @@ class MapForm extends Component {
     }
 };
 
-export default MapForm;
+export default RaceForm;
