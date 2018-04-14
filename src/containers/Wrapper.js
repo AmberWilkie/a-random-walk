@@ -1,7 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import MapForm from './Form';
-import Map from './App';
+import RaceForm from './RaceForm';
+import Map from './Map';
+import Home from './Home';
 
 const Wrapper = () => (
     <Router>
@@ -11,13 +12,17 @@ const Wrapper = () => (
                     <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <Link to="/Map">Map</Link>
+                    <Link to="/RaceForm">Start a race!</Link>
+                </li>
+                <li>
+                    <Link to="/Map">Go to map</Link>
                 </li>
             </ul>
 
             <hr />
 
-            <Route exact path="/" component={MapForm} />
+            <Route exact path="/" component={Home} />
+            <Route path="/RaceForm" component={RaceForm} />
             <Route path="/Map" component={Map} />
         </div>
     </Router>
