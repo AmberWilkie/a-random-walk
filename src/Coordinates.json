@@ -1,0 +1,208 @@
+{
+    "wild": [
+        {
+            "name": "Galärvarvskyrkogården",
+            "lat": 59.3280782,
+            "lng": 18.093948700000055
+        },
+        {
+            "name": "Villa lusthusporten",
+            "lat": 59.328645,
+            "lng": 18.097291
+        },
+        {
+            "name": "Blå Porten",
+            "lat": 59.330588,
+            "lng": 18.094651
+        },
+        {
+            "name": "Skansen",
+            "lat": 59.324123,
+            "lng": 20930930
+        },
+        {
+            "name": "Rosendals Trädgård",
+            "lat": 59.327081,
+            "lng": 18.114498
+        },
+        {
+            "name": "Rosendals Slott",
+            "lat": 59.328813,
+            "lng": 18.117582
+        },
+        {
+            "name": "Kunliga Djurgård",
+            "lat": 59.326569,
+            "lng": 18.126796
+        },
+        {
+            "name": "Kaknästornet",
+            "lat": 59.334869,
+            "lng": 18.126254
+        },
+        {
+            "name": "Tessinparken",
+            "lat": 59.343005,
+            "lng": 18.095255
+        },
+        {
+            "name": "Hagaparken",
+            "lat": 59.361413,
+            "lng": 18.034671
+        },
+        {
+            "name": "Linnéplatsen",
+            "lat": 57.689601,
+            "lng": 11.952001
+        },
+        {
+            "name": "Folkdansringen",
+            "lat": 57.687384,
+            "lng": 11.948765
+        },
+        {
+            "name": "Ducks and Penguins",
+            "lat": 57.685235,
+            "lng": 11.942847
+        },
+        {
+            "name": "Barnens zoo",
+            "lat": 57.681671,
+            "lng": 11.945435
+        },
+        {
+            "name": "Älghägnet",
+            "lat": 57.685294,
+            "lng": 11.940062
+        },
+        {
+            "name": "Lilla Dammen",
+            "lat": 57.687387,
+            "lng": 11.945994
+
+        },
+        {
+            "name": "Stora Delsjön",
+            "lat": 57.688636,
+            "lng": 12.046807
+        },
+        {
+            "name": "Lilla Delsjön",
+            "lat": 57.683635,
+            "lng": 12.058308
+        },
+        {
+            "name": "Delsjön",
+            "lat": 57.67845,
+            "lng": 12.062085
+        },
+        {
+            "name": "Delsjöbadet",
+            "lat": 57.688942 ,
+            "lng": 12.034986
+        }
+    ],
+        "city": [
+        {
+            "name": "Stockholm Palace",
+            "lat": 59.326822,
+            "lng": 18.071719
+        },
+        {
+            "name": "Stortorget",
+            "lat": 59.325125,
+            "lng": 18.070804
+        },
+        {
+            "name": "Köpmantorget",
+            "lat": 59.32522,
+            "lng": 18.073574
+        },
+        {
+            "name": "Linnaeus",
+            "lat": 59.32427,
+            "lng": 18.073915
+        },
+        {
+            "name": "Junotäppan",
+            "lat": 59.323513,
+            "lng": 18.072118
+        },
+        {
+            "name": "Järntorget",
+            "lat": 59.322633,
+            "lng": 18.07281
+        },
+        {
+            "name": "Katarinahissen",
+            "lat": 59.319951,
+            "lng": 18.073372
+        },
+        {
+            "name": "Södra teatern",
+            "lat": 59.318433,
+            "lng": 18.074398
+        },
+        {
+            "name": "The secret little horse",
+            "lat": 59.313867,
+            "lng": 18.067596
+        },
+        {
+            "name": "Medborgarplatsen",
+            "lat": 59.314262,
+            "lng": 18.073418
+        },
+        {
+            "name": "Järntorget",
+            "lat": 57.699787,
+            "lng": 11.952228
+        },
+        {
+            "name": "Hagakyrkan",
+            "lat": 57.698984,
+            "lng": 11.962377
+        },
+        {
+            "name": "Götaplatsen",
+            "lat": 57.697481,
+            "lng": 11.979018
+        },
+        {
+            "name": "Liseberg",
+            "lat": 57.696744,
+            "lng": 11.987749
+        },
+        {
+            "name": "Scandinavium",
+            "lat": 57.699598,
+            "lng": 11.986411
+        },
+        {
+            "name": "Nya Ullevi",
+            "lat": 57.70407,
+            "lng": 11.98491
+        },
+        {
+            "name": "Gamla Ullevi",
+            "lat": 57.707114,
+            "lng": 11.980858
+        },
+        {
+            "name": "Drottningtorget",
+            "lat": 57.708271,
+            "lng": 11.973057
+        },
+        {
+            "name": "Gustav Adolf Torg",
+            "lat": 57.706978,
+            "lng": 11.967463
+        },
+        {
+            "name": "Domkyrkan",
+            "lat": 57.70458,
+            "lng": 11.966326
+
+        }
+    ]
+}
